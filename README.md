@@ -4,7 +4,7 @@ My transition from .NET backend to AI/ML - documenting my learning path
 
 **Goal:** Transition from backend software engineer to ML systems engineer
 
-**Timeline:** May 2026 - September 2026
+**Timeline:** July 2026 - December 2026
 
 **Background:** 
 - 2+ years software engineering (C#/.NET, microservices, Azure)
