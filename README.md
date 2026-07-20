@@ -1,19 +1,21 @@
-# ai-learning-journey
-My transition from .NET backend to AI/ML - documenting my learning path
+ AI Learning Journey
 
+This repository documents my AI learning journey through courses, experiments, and projects.
 
-**Goal:** Transition from backend software engineer to ML systems engineer
+## Repository Structure
 
-**Timeline:** July 2026 - December 2026
+- 📚 Python Exercises
+- 📓 Jupyter Notebooks
+- ✍️ Prompt Engineering
+- 🤖 PartyRock Projects
+- 💡 Mini AI Projects
+- 📖 Resources
 
-**Background:** 
-- 2+ years software engineering (C#/.NET, microservices, Azure)
-- FMDQ Group: Built data pipelines serving 30+ banks
-- Automated workflows (85% error reduction)
+## Featured Project
 
-**Current Focus:**
-- Fast.ai Practical Deep Learning
-- Python/ML fundamentals
-- Open-source contributions to ML infrastructure projects
+### 1. AI Learning Roadmap Generator
 
-<!-- **Target:** MSc Computer Science (AI) @ University of Nottingham, Sept 2026 -->
+Built with AWS PartyRock.
+
+🔗 Live Demo:
+https://partyrock.aws/u/evelynovi/t6Kyi5xrr/AI-Learning-Roadmap-Generator
